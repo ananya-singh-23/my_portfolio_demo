@@ -79,7 +79,7 @@
                         <li><a href="mailto:ananyasingh8763@gmail.com">My Email</a>
                         </li>
                         <li>  <a href="https://www.linkedin.com/in/ananya-singh-a7b598379?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">LinkedIn</a></li>
-                        <li><a href="https://github.com/ananyasingh8763" target="_blank">GitHub</a></li>
+                        <li><a href="https://github.com/ananya-singh-23" target="_blank">GitHub</a></li>
                     </ul>
                   
 
